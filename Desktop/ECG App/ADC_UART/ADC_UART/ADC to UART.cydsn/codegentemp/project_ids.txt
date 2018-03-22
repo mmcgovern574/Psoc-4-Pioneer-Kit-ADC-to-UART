@@ -1,0 +1,5 @@
+C:\Users\Mike\Desktop\ECG App\ADC_UART\ADC_UART\ADC to UART.cydsn\ADC to UART.cyprj|ff1d92a0-03b2-4a8e-86e4-f759bab66479
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|1e36e759-2013-4a28-8560-f027dff4f8c8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|3e6ffffe-0c4c-451b-a87b-a6245943a410
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|14e277a7-e7a6-4ced-9be6-9a18cc8450d0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|91178376-1e1b-403c-a3ec-84bb32b3cc92
