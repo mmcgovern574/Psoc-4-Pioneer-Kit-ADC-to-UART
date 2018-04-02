@@ -31,8 +31,8 @@ int main()
         adc_val = ADC_GetResult16(0);
         //adcvoltage = ADC_CountsTo_mVolts(0,adc_val);
         sprintf(send_value,"%.4f", adc_val);  //"%.4f indicates number of decimals
-        UART_UartPutString(send_value);
-        UART_UartPutString("\n send_value \r");  //prints hello each line
+        UART_UartPutString(send_value);  //prints ADC value
+        UART_UartPutString("\n send_value \r");  //prints "send value" for debugging purposes
         
     }
 }
